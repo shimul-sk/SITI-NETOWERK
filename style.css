@@ -1,0 +1,14 @@
+h1 {
+    box-sizing: border-box;
+    margin: 0;
+    text-align: center;
+    color: rgb(0, 132, 255);
+    padding-top: 3rem;
+    font-style: italic;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: rgb(0, 132, 255);
+    text-shadow: 1px -1px 0 rgb(0, 132, 255), -1px 2px 1px rgb(185, 212, 223),
+        -2px 3px 2px rgb(175, 215, 231), -3px 4px 3px rgb(100, 107, 110);
+}
